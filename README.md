@@ -1,4 +1,4 @@
-### Hi there 👋
+### Opa, sou o Lucas
 
 <!--
 **LucasAlexandreMachado/LucasAlexandreMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
