@@ -1,5 +1,4 @@
-### ☕ Opa, Sou o Lucas Machado
-
+### ☕ Opa, Sou o Lucas
 - Estou estudando Web Dev
 - Essas são as linguagens que eu utilizo:
 
